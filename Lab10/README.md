@@ -1,4 +1,4 @@
-###Change I made
+### Change I made
 
   - Replaced the default peppers.png with my own dark image dark_forest.jpg.
   
